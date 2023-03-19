@@ -16,6 +16,7 @@ Tela que muda o Mural
 
 
 
+
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
 
 ## Development server
