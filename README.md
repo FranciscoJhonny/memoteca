@@ -11,7 +11,7 @@ Tela que cria mural
 ![Criar Mural](/_docs/imagensAulas/criarMural.jpg)
 
 Tela que muda o Mural
-![Alterar Mural](/_docs/imagensAulas/criarAlterar.jpg)
+![Alterar Mural](/_docs/imagensAulas/alterarMural.jpg)
 
 
 
