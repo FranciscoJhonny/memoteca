@@ -5,7 +5,7 @@ Seja bem vindo ao meu projeto fiz a aula da Alura Memoteca !!! :
 - Angular 14: evoluindo a aplicação
 
 Tela Principal do mural
-![Capa do Projeto](/_docs/paginaListaMural.png)
+![Capa do Projeto](/_docs/imagensAulas/alterarMural.jpg)
 
 Tela que cria mural
 ![Criar Mural](/_docs/criarMural.png)
