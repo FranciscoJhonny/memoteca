@@ -8,10 +8,10 @@ Tela Principal do mural
 ![Capa do Projeto](/_docs/imagensAulas/alterarMural.jpg)
 
 Tela que cria mural
-![Criar Mural](/_docs/imagensAulas/criarMural.png)
+![Criar Mural](/_docs/imagensAulas/criarMural.jpg)
 
 Tela que muda o Mural
-![Alterar Mural](/_docs/imagensAulas/criarAlterar.png)
+![Alterar Mural](/_docs/imagensAulas/criarAlterar.jpg)
 
 
 
